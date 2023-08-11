@@ -64,10 +64,10 @@ const web = [
     message: '账户余额和充值套餐记录'
   },
   {
-    path: 'https://github.com/79E/ChatGpt-Web',
+    path: 'https://blog.aidengrong.top',
     name: '项目地址',
-    icon: <GithubOutlined />,
-    message: '免费开源可商业化AiWeb项目'
+    icon: <CommentOutlined />,
+    message: '番茄酱的Blog'
   }
 ]
 
